@@ -4,4 +4,5 @@ This is a simple game where user has to guess a number which is in between 1 to 
 and as per incorrect guess user's high score decreases.
 
 
-# adsf
+# Idea
+Developed under the udemy course taken for JS Mastry Course by "Jonas Schmedtmann"
